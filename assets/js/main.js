@@ -1,5 +1,5 @@
 import App from './organizer/app.js'
-import data from '/assets/data/projects.js';
+import data from './projects.js';
 
 // start Application
 const app = new App(data, {
