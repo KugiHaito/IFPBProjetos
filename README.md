@@ -1,13 +1,11 @@
 <div align="center">
     <img src="https://github.com/KugiHaito/IFPBProjetos/blob/master/assets/img/Cover.png">
-    <br><br>
 </div>
-
-Inicialmente este projeto foi desenvolvido com o objetivo de realizar o [desafio](https://ifpb.github.io/challenges/front-end-web/ifpb-projects), onde pede-se para fazer um filtrador de projetos.
 
 ## Detalhes
 
-Neste projeto é utilizado apenas HTML, CSS e Javascript (ES7). Para o fron-end foi utilizado o [Paradox](https://github.com/MePaper/Paper) meu proprio Framework CSS.
+Inicialmente este projeto foi desenvolvido com o objetivo de realizar o [desafio](https://ifpb.github.io/challenges/front-end-web/ifpb-projects), onde pede-se para fazer um filtrador de projetos.
+Neste projeto é utilizado apenas HTML, CSS e Javascript (ES7). Para o fron-end foi utilizado o [Paradox](https://github.com/KugiHaito/Paradox) (1.0.1 version) meu proprio Framework CSS.
 
 ## Screenshots
 
