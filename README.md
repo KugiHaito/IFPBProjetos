@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.imgur.com/zJbhE0E.png">
+    <img src="https://github.com/KugiHaito/IFPBProjetos/blob/master/assets/img/Cover.png">
     <br><br>
 </div>
 
