@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/KugiHaito/IFPBProjetos/blob/main/assets/img/cover.png">
+    <img src="https://github.com/KugiHaito/IFPBProjetos/blob/main/assets/img/Cover.png">
 </div>
 
 ## Detalhes
